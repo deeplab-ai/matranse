@@ -1,0 +1,12 @@
+# Directories
+created_images_path: 'created_images/'
+created_masks_path: 'created_masks/'  # str, path of stored spatial masks as .npy
+features_path: 'features/'  # str, path of stored features
+figures_path: 'figures/'  # str, the path where figures of loss curves are stored
+json_path: 'json_annos/'  # str, path of stored json annotations
+mat_path: 'matlab_annos/'  # str, the path where the .mat file are stored
+models_path: 'models/'  # str, the path where trained models are stored
+orig_images_path: 'sg_dataset/images/'  # str, path of stored original dataset images
+
+# Variables
+use_cuda: False  # whether to use GPU
