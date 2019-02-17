@@ -104,8 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # extras
-*.mat
-matlab_annos/*
 json_annos/*
 sg_dataset/*
 sg_train_images/*
