@@ -130,6 +130,8 @@ figures/*
 *.h5
 *.json
 *.png
+!img/clustering_fig_stds.png
+!img/system.png
 *.jpg
 *.gif
 *.tif
